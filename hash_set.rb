@@ -1,3 +1,1 @@
-class HashSet
-
-end
+require_relative 'hash_set'
