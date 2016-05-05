@@ -110,7 +110,7 @@ class MyHash
     # I think a basic hashing algorithm should be given by default to the students for this challenge. For starters, asking the students to create their own hashing algorithm is setting them down a rabbit hole that never ends - there is no perfect hashing function that can ever perfectly avoid collisions and generate index values that stay within the bounds of the number of buckets the hash table holds.
     # I also think it distracts from the main purpose of the challenge. Hashes are built off of using a one way hashing function, and using that function to effectively give constant look up time for all operations is whats actually cool about it. In my implementation of the MyHash you'll see how I used the hashing algo in pretty much every method. That alone is a good start to understanding the Hash class.
 
-    #If anything the hashing algo should be a stretch challenge to complete afterwards.
+    #If anything the hashing algorithm should be a stretch challenge to complete afterwards.
 end
 
 
